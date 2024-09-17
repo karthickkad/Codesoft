@@ -19,7 +19,7 @@ This project aims to create a password generator application using Python, allow
 **Generate Password:** Use a combination of random characters to generate a password of the specified length.
 **Display the Password:** Print the generated password on the screen.
 
-**#Rock-Paper-Scissors=game**
+**Rock-Paper-Scissors-game**
 
 **User Input**: Prompt the user to choose rock, paper, or scissors.
 **Computer Selection**: Generate a random choice (rock, paper, or scissors) for the computer.
